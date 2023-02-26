@@ -1,5 +1,5 @@
 # Responsive-Sidebar
-<<-- Responsive Multicolor Sidebar Menu -->> using HTML, CSS and JavaScript
+<<- Responsive Multicolor Sidebar Menu ->> using HTML, CSS and JavaScript
 
 This project, I used HTML, CSS, Javascript and media query.
 
